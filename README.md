@@ -8,10 +8,13 @@
 
 - Email: vasilzahariev1707@gmail.com
 - Facebook: [Vasil Zahariev](https://www.facebook.com/vasil.zahariev.75/)
+- Discord: papavasko
 
 ### Калоян Георгиев:
 
-- 
+- Emai: kaloyan.sg117@gmail.com
+- Facebook: [Kaloyan Georgiev]
+- Discord: kalata_sg
 
 ## Полезни линкове:
 
