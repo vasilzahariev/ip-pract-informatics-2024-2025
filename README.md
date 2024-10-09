@@ -13,7 +13,7 @@
 ### Калоян Георгиев:
 
 - Emai: kaloyan.sg117@gmail.com
-- Facebook: [Kaloyan Georgiev]
+- Facebook: [Kaloyan Georgiev](https://www.facebook.com/kaloqn.georgiew)
 - Discord: kalata_sg
 
 ## Полезни линкове:

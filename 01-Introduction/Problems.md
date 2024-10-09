@@ -2,7 +2,7 @@
 
 ## Практически задачи (P)
 
-### P1
+### P0
 
 Изберете си среда за разработка и я нагласете. Препоръчителни среди за разработка:
 
@@ -13,7 +13,7 @@
 - [CLion](https://www.jetbrains.com/clion/) и [конфигуриране](https://www.jetbrains.com/help/clion/quick-tutorial-on-configuring-clion-on-windows.html)
 - [Code::Blocks](https://codeforwin.org/c-programming/create-compile-run-c-program-using-codeblocks)
 
-### P2
+### P1
 Компилирайте следното парче код:
 
 ``` c++
@@ -28,7 +28,7 @@ int main() {
 
 ```
 
-### P3
+### P2
 Напишете програма, която при пускане принтира името, годините и факултетният ви номер.
 
 ```
@@ -41,7 +41,7 @@ Vasil Zahariev, 22, 0MI0800154
 
 ```
 
-### P4
+### P3
 Напишете програма, която прочита от конзолата 2 числа и принтира техният сбор.
 
 ```
