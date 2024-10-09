@@ -14,7 +14,7 @@
 
 - Emai: kaloyan.sg117@gmail.com
 - Facebook: [Kaloyan Georgiev](https://www.facebook.com/kaloqn.georgiew)
-- Discord: kalata_sg
+- Discord: kaloyan_sg
 
 ## Полезни линкове:
 
