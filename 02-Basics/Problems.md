@@ -216,7 +216,7 @@ a
 
 Изход:
 Reversed: 321
-Cool Sum: 39
+Cool Sum: 36
 
 #2 Пример
 Вход:
