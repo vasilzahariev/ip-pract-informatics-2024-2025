@@ -35,7 +35,7 @@ int main() {
     
     // Using logarithms to get the number of digits of a number
     int bigNumber = 12345;
-    printf("Number \"%d\" has %d digits.\n", bigNumber, (int)floor(log10(bigNumber)));
+    printf("Number \"%d\" has %d digits.\n", bigNumber, ((int)floor(log10(bigNumber)) + 1));
 
 
 
