@@ -59,7 +59,7 @@ not divisible by 5 or 3
 225
 
 Изход:
-divisible by 5 or 3
+divisible by 5 and 3
 
 #3 Пример
 Вход:
