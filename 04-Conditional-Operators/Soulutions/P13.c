@@ -6,9 +6,15 @@ int main() {
 
     scanf("%d %d", &day, &month);
 
+    if (day < 1) {
+        printf("Invalid date\n");
+
+        return 1;
+    }
+
     switch (month) {
         case 2:
-            if (day < 1 || day > 28) {
+            if (day > 28) {
                 printf("Invalid date\n");
 
                 return 1;
@@ -22,7 +28,7 @@ int main() {
         case 8:
         case 10:
         case 12:
-            if (day < 1 || day > 31) {
+            if (day > 31) {
                 printf("Invalid date\n");
 
                 return 1;
@@ -33,7 +39,7 @@ int main() {
         case 6:
         case 9:
         case 11:
-            if (day < 1 || day > 30) {
+            if (day > 30) {
                 printf("Invalid date\n");
 
                 return 1;
