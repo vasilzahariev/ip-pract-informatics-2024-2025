@@ -89,7 +89,7 @@ E
 Изход:
 P(18) = 6402373705728000
 Invalid number input!
-V(25, 2) = 600
+Invalid number input!
 Invalid command input!
 Invalid command input!
 ```
