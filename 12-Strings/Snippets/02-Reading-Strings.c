@@ -2,6 +2,8 @@
 
 #define CAPACITY 1024
 
+void clearInputBuffer();
+
 int main() {
     char str[CAPACITY];
 
@@ -13,15 +15,7 @@ int main() {
 
     printf("You entered: %s\n", str);
 
-    // scanf leaves the newline character in the input buffer
-    // To clear the input buffer, we can use getchar
-    // getchar reads a single character from the input buffer
-    getchar();
-
-    // Another way to clear the input buffer is to use fflush
-    // fflush clears the output buffer
-    // fflush(stdin) clears the input buffer
-    fflush(stdin);
+    clearInputBuffer();
 
     // Reading a string using fgets
     // The fgets function reads a string until a newline character is encountered or the maximum number of characters is read
@@ -35,4 +29,17 @@ int main() {
     printf("You entered: %s\n", str);
 
     return 0;
+}
+
+void clearInputBuffer() {
+    char c;
+
+    // scanf leaves the newline character in the input buffer
+    // To clear the input buffer, we can use getchar
+    // getchar reads a single character from the input buffer
+    // We continue reading characters until we reach the newline character or the end of the file
+    // This way, we consume all characters in the input buffer
+    while ((c = getchar()) != '\n' && c != EOF) {
+        // Consume characters until the end of the line or EOF
+    }
 }
